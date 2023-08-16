@@ -1,2 +1,2 @@
-# maki
+# Ethics 
 Ethics in cybersecurity 
